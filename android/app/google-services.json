@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "223503752042",
+    "project_id": "fir-influtterformealdb",
+    "storage_bucket": "fir-influtterformealdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223503752042:android:57fe50c18133a625e1e313",
+        "android_client_info": {
+          "package_name": "com.example.mealdbinflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223503752042-cqirs0bhti07mbcf85no9ql3se86u4pc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsNUYd24wn9IlxP0oLqCHqUWpvS2O5DDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223503752042-cqirs0bhti07mbcf85no9ql3se86u4pc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
